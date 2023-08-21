@@ -9,7 +9,7 @@ import {
   FaLinux,
   FaAndroid
 } from "react-icons/all";
-import {Platform} from "../hooks/useGames";
+import {Platform} from "../hooks/usePlatforms";
 import {HStack, Icon} from "@chakra-ui/react";
 import {IconType} from "react-icons";
 
